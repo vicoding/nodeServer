@@ -1,0 +1,9 @@
+{
+    "name": "express-api",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "2.5.9",
+        "ejs": "0.4.2",
+	"web3":"0.15.3"
+    }
+}
